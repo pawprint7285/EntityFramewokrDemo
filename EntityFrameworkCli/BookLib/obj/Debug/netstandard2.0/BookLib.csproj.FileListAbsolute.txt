@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\BookLib\bin\Debug\netstandard2.0\BookLib.deps.json
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\BookLib\bin\Debug\netstandard2.0\BookLib.dll
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\BookLib\obj\Debug\netstandard2.0\BookLib.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\BookLib\obj\Debug\netstandard2.0\BookLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\BookLib\obj\Debug\netstandard2.0\BookLib.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\BookLib\obj\Debug\netstandard2.0\BookLib.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\BookLib\bin\Debug\netstandard2.0\BookLib.pdb
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\BookLib\obj\Debug\netstandard2.0\BookLib.dll
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\BookLib\obj\Debug\netstandard2.0\BookLib.pdb

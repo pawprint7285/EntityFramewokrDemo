@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkCli", "EntityFrameworkCli\EntityFrameworkCli.csproj", "{2773EA0E-3A0A-435C-B98F-3E5F996E7CC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLib", "BookLib\BookLib.csproj", "{0E860B0A-B577-482C-9F75-CD88D9FDBB45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2773EA0E-3A0A-435C-B98F-3E5F996E7CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2773EA0E-3A0A-435C-B98F-3E5F996E7CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2773EA0E-3A0A-435C-B98F-3E5F996E7CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2773EA0E-3A0A-435C-B98F-3E5F996E7CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E860B0A-B577-482C-9F75-CD88D9FDBB45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E860B0A-B577-482C-9F75-CD88D9FDBB45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E860B0A-B577-482C-9F75-CD88D9FDBB45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E860B0A-B577-482C-9F75-CD88D9FDBB45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3242DC91-D758-4F8F-ADF0-209E7E64DB77}
+	EndGlobalSection
+EndGlobal

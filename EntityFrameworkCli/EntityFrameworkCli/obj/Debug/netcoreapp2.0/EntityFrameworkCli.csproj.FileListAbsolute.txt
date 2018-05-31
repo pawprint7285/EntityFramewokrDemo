@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\EntityFrameworkCli\bin\Debug\netcoreapp2.0\EntityFrameworkCli.deps.json
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\EntityFrameworkCli\bin\Debug\netcoreapp2.0\EntityFrameworkCli.runtimeconfig.json
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\EntityFrameworkCli\bin\Debug\netcoreapp2.0\EntityFrameworkCli.runtimeconfig.dev.json
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\EntityFrameworkCli\bin\Debug\netcoreapp2.0\EntityFrameworkCli.dll
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\EntityFrameworkCli\bin\Debug\netcoreapp2.0\EntityFrameworkCli.pdb
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\EntityFrameworkCli\obj\Debug\netcoreapp2.0\EntityFrameworkCli.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\EntityFrameworkCli\obj\Debug\netcoreapp2.0\EntityFrameworkCli.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\EntityFrameworkCli\obj\Debug\netcoreapp2.0\EntityFrameworkCli.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\EntityFrameworkCli\obj\Debug\netcoreapp2.0\EntityFrameworkCli.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\EntityFrameworkCli\obj\Debug\netcoreapp2.0\EntityFrameworkCli.dll
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\EntityFrameworkCli\obj\Debug\netcoreapp2.0\EntityFrameworkCli.pdb
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\EntityFrameworkCli\bin\Debug\netcoreapp2.0\BookLib.dll
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\EntityFrameworkCli\bin\Debug\netcoreapp2.0\BookLib.pdb
+C:\Users\User\Desktop\CodeClass\SQL\EfDemo1\EntityFrameworkCli\EntityFrameworkCli\obj\Debug\netcoreapp2.0\EntityFrameworkCli.csproj.CopyComplete
